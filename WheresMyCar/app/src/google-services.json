@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "803969548456",
+    "firebase_url": "https://wheres-my-car-531e7.firebaseio.com",
+    "project_id": "wheres-my-car-531e7",
+    "storage_bucket": "wheres-my-car-531e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803969548456:android:6d66c77e439ab3bc",
+        "android_client_info": {
+          "package_name": "io.github.tuckingfypos.wheresmycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803969548456-o8bmnn2q8d90g790gr4p65j0u3pt7npu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.tuckingfypos.wheresmycar",
+            "certificate_hash": "2FA213EA647F12BE5CD90A8C98B8279405314C17"
+          }
+        },
+        {
+          "client_id": "803969548456-6qb567chbchf643r96nbctkn5js78h71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.tuckingfypos.wheresmycar",
+            "certificate_hash": "23453FF4C67B01E069E583B52BA51A81649F849D"
+          }
+        },
+        {
+          "client_id": "803969548456-eacricp6464nda337h34tpek6h7qrdor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVIgGsB3o-t9vqmoBxOkN3Z1G3moBxZqU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803969548456-eacricp6464nda337h34tpek6h7qrdor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

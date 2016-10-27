@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "480057071602",
+    "firebase_url": "https://fir-lesson-cae8c.firebaseio.com",
+    "project_id": "fir-lesson-cae8c",
+    "storage_bucket": "fir-lesson-cae8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480057071602:android:088fa2ad677b5cc1",
+        "android_client_info": {
+          "package_name": "com.example.tuckingfypos.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480057071602-8k3nvkn4uvj28lchh53efae7h5qfti77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G042ok9oDinrPNCEwA8-vEQWdRzP0wE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480057071602:android:9bae334d6c27f141",
+        "android_client_info": {
+          "package_name": "com.example.tuckingfypos.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480057071602-8k3nvkn4uvj28lchh53efae7h5qfti77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G042ok9oDinrPNCEwA8-vEQWdRzP0wE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
